@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Label="NsightTegraProject">
+    <NsightTegraProjectRevisionNumber>11</NsightTegraProjectRevisionNumber>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Tegra-Android">
+      <Configuration>Debug</Configuration>
+      <Platform>Tegra-Android</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Tegra-Android">
+      <Configuration>Release</Configuration>
+      <Platform>Tegra-Android</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Shipping|Tegra-Android">
+      <Configuration>Shipping</Configuration>
+      <Platform>Tegra-Android</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{7E131650-2D61-4666-B8EF-EEB604B0B47C}</ProjectGuid>
+    <RootNamespace>helloGL</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='Debug|Tegra-Android'">
+    <ConfigurationType>Utility</ConfigurationType>
+    <AndroidTargetAPI>android-19</AndroidTargetAPI>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='Release|Tegra-Android'">
+    <ConfigurationType>Utility</ConfigurationType>
+    <AndroidTargetAPI>android-19</AndroidTargetAPI>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='Shipping|Tegra-Android'">
+    <ConfigurationType>Utility</ConfigurationType>
+    <AndroidTargetAPI>android-19</AndroidTargetAPI>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros">
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Tegra-Android'">
+    <AntBuild>
+      <AntBuildPath>C:\NVPACK\android-ndk-r10c\samples\hello-gl2</AntBuildPath>
+    </AntBuild>
+    <NdkBuild>
+      <NdkProjectPath>C:\NVPACK\android-ndk-r10c\samples\hello-gl2</NdkProjectPath>
+    </NdkBuild>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Tegra-Android'">
+    <AntBuild>
+      <AntBuildPath>C:\NVPACK\android-ndk-r10c\samples\hello-gl2</AntBuildPath>
+    </AntBuild>
+    <NdkBuild>
+      <NdkProjectPath>C:\NVPACK\android-ndk-r10c\samples\hello-gl2</NdkProjectPath>
+    </NdkBuild>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Shipping|Tegra-Android'">
+    <AntBuild>
+      <AntBuildPath>C:\NVPACK\android-ndk-r10c\samples\hello-gl2</AntBuildPath>
+    </AntBuild>
+    <NdkBuild>
+      <NdkProjectPath>C:\NVPACK\android-ndk-r10c\samples\hello-gl2</NdkProjectPath>
+    </NdkBuild>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <AndroidBuild Include="..\..\..\..\..\NVPACK\android-ndk-r10c\samples\hello-gl2\AndroidManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidBuild Include="..\..\..\..\..\NVPACK\android-ndk-r10c\samples\hello-gl2\build.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidBuild Include="..\..\..\..\..\NVPACK\android-ndk-r10c\samples\hello-gl2\local.properties" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidBuild Include="..\..\..\..\..\NVPACK\android-ndk-r10c\samples\hello-gl2\project.properties" />
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="..\..\..\..\..\NVPACK\android-ndk-r10c\samples\hello-gl2\.idea\compiler.xml" />
+    <Xml Include="..\..\..\..\..\NVPACK\android-ndk-r10c\samples\hello-gl2\.idea\copyright\profiles_settings.xml" />
+    <Xml Include="..\..\..\..\..\NVPACK\android-ndk-r10c\samples\hello-gl2\.idea\misc.xml" />
+    <Xml Include="..\..\..\..\..\NVPACK\android-ndk-r10c\samples\hello-gl2\.idea\modules.xml" />
+    <Xml Include="..\..\..\..\..\NVPACK\android-ndk-r10c\samples\hello-gl2\.idea\vcs.xml" />
+    <Xml Include="..\..\..\..\..\NVPACK\android-ndk-r10c\samples\hello-gl2\.idea\workspace.xml" />
+    <Xml Include="..\..\..\..\..\NVPACK\android-ndk-r10c\samples\hello-gl2\res\values\strings.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\..\NVPACK\android-ndk-r10c\samples\hello-gl2\jni\Android.mk" />
+    <None Include="..\..\..\..\..\NVPACK\android-ndk-r10c\samples\hello-gl2\jni\Application.mk" />
+    <JCompile Include="..\..\..\..\..\NVPACK\android-ndk-r10c\samples\hello-gl2\src\com\android\gl2jni\GL2JNIActivity.java" />
+    <JCompile Include="..\..\..\..\..\NVPACK\android-ndk-r10c\samples\hello-gl2\src\com\android\gl2jni\GL2JNILib.java" />
+    <JCompile Include="..\..\..\..\..\NVPACK\android-ndk-r10c\samples\hello-gl2\src\com\android\gl2jni\GL2JNIView.java" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\NVPACK\android-ndk-r10c\samples\hello-gl2\jni\gl_code.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
