@@ -297,7 +297,7 @@ void android_main(struct android_app* state) {
 
         if (engine.animating) {
             // Done with events; draw next animation frame.
-            engine.state.angle += .01f;
+            engine.state.angle += .11f;
             if (engine.state.angle > 1) {
                 engine.state.angle = 0;
             }

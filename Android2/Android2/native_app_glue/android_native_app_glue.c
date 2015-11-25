@@ -19,6 +19,7 @@
 
 #include <errno.h>
 #include <stdlib.h>
+#include <cstdlib>
 #include <string.h>
 #include <unistd.h>
 #include <sys/resource.h>

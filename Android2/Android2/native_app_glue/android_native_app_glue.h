@@ -21,6 +21,7 @@
 #include <poll.h>
 #include <pthread.h>
 #include <sched.h>
+#include <cstdio>
 
 #include <android/configuration.h>
 #include <android/looper.h>
