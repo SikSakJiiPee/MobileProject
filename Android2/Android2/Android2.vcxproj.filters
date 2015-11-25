@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="jni">
+      <UniqueIdentifier>6f5e170a-e1a4-4c62-973b-45bff17c7ea1</UniqueIdentifier>
+    </Filter>
+    <Filter Include="res">
+      <UniqueIdentifier>c3e4445d-b430-4037-9916-29ba6def0320</UniqueIdentifier>
+    </Filter>
+    <Filter Include="res\values">
+      <UniqueIdentifier>1ebd3edd-ed91-40ca-b365-58fae9f975a2</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Android2">
+      <UniqueIdentifier>{6ae56ef2-90c6-43b2-b58b-efbf65ff0fba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Android2\native_app_glue">
+      <UniqueIdentifier>{4fe8e31a-5cb8-45a3-b971-0b5097c8bd68}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidBuild Include="AndroidManifest.xml" />
+    <AndroidBuild Include="res\values\strings.xml">
+      <Filter>res\values</Filter>
+    </AndroidBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="jni\main.cpp">
+      <Filter>jni</Filter>
+    </ClCompile>
+    <ClCompile Include="native_app_glue\android_native_app_glue.c">
+      <Filter>Android2\native_app_glue</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="native_app_glue\android_native_app_glue.h">
+      <Filter>Android2\native_app_glue</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
