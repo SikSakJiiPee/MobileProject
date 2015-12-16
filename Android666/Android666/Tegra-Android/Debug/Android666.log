@@ -1,0 +1,112 @@
+﻿Build started 16.12.2015 9:51:06.
+     1>Project "C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Android666.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\NVPACK\android-ndk-r10e\toolchains\arm-linux-androideabi-4.9\prebuilt\windows-x86_64\bin\arm-linux-androideabi-g++.exe 
+         android_native_app_glue.c
+         main.cpp
+       Link:
+         C:\NVPACK\android-ndk-r10e\toolchains\arm-linux-androideabi-4.9\prebuilt\windows-x86_64\bin\arm-linux-androideabi-g++.exe Tegra-Android/Debug/main.o Tegra-Android/Debug/android_native_app_glue.o  -Wl,-soname,libAndroid666.so -shared --sysroot=C:/NVPACK/android-ndk-r10e/platforms/android-9/arch-arm -Wl,-rpath-link=C:/NVPACK/android-ndk-r10e/platforms/android-9/arch-arm/usr/lib "-landroid" "-lEGL" "-lGLESv1_CM" -fuse-ld=bfd -Wl,--no-undefined -Wl,-z,noexecstack -Wl,-z,relro -Wl,-z,now -L"C:/NVPACK/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/lib/gcc/arm-linux-androideabi/4.9/armv7-a" -L"C:/NVPACK/android-ndk-r10e/platforms/android-9/arch-arm/usr/lib" -L"C:/NVPACK/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a" -L"C:/NVPACK/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/lib/gcc/arm-linux-androideabi/4.9/armv7-a" "C:/NVPACK/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/libgnustl_static.a" -lc -lm -llog -lgcc -oC:/Users/jussi-pekkajar/Desktop/Android666/Tegra-Android/Debug/libAndroid666.so 
+         Android666.vcxproj -> C:\Users\jussi-pekkajar\Desktop\Android666\Tegra-Android\Debug\libAndroid666.so
+       StripLibrary:
+         C:\NVPACK\android-ndk-r10e\toolchains\arm-linux-androideabi-4.9\prebuilt\windows-x86_64\bin\arm-linux-androideabi-strip.exe --strip-unneeded -o"C:\Users\jussi-pekkajar\Desktop\Android666\Tegra-Android\Debug\stripped_libAndroid666.so" "C:\Users\jussi-pekkajar\Desktop\Android666\Tegra-Android\Debug\libAndroid666.so"
+         Stripping C:\Users\jussi-pekkajar\Desktop\Android666\Tegra-Android\Debug\libAndroid666.so to C:\Users\jussi-pekkajar\Desktop\Android666\Tegra-Android\Debug\stripped_libAndroid666.so
+       AntBuild:
+         C:\NVPACK\apache-ant-1.8.2\bin\ant.bat debug -f C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml -listener org.apache.tools.ant.XmlLogger  
+         Building using the JDK located here: 'C:\Program Files\Java\jdk1.7.0_79 (Native64Bit)'...
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Platforms\Tegra-Android\Nvidia.AndroidBuild.targets(212,5): warning : When using a 64-bit Java runtime incremental builds may not function correctly.
+         Executing "C:\NVPACK\apache-ant-1.8.2\bin\ant.bat debug -f C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml -listener org.apache.tools.ant.XmlLogger "
+         Buildfile: C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml
+         
+         -set-mode-check:
+         
+         -set-debug-files:
+         
+         -check-env:
+          [checkenv] Android SDK Tools Revision 24.3.3
+          [checkenv] Installed at C:\NVPACK\android-sdk-windows
+         
+         -setup:
+              [echo] Project Name: Android666
+           [gettype] Project Type: Application
+         
+         -set-debug-mode:
+         
+         -debug-obfuscation-check:
+         
+         -pre-build:
+         
+         -build-setup:
+         [getbuildtools] Using latest Build Tools: 22.0.1
+              [echo] Resolving Build Target for Android666...
+         [gettarget] Project Target:   Android 4.0.3
+         [gettarget] API level:        15
+              [echo] ----------
+              [echo] Creating output directories if needed...
+             [mkdir] Created dir: C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin
+             [mkdir] Created dir: C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\res
+             [mkdir] Created dir: C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\rsObj
+             [mkdir] Created dir: C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\rsLibs
+              [echo] ----------
+              [echo] Resolving Dependencies for Android666...
+         [dependency] Library dependencies:
+         [dependency] No Libraries
+         [dependency] 
+         [dependency] ------------------
+         [dependency] API<=15: Adding annotations.jar to the classpath.
+         [dependency] WARNING: unable to write jarlist cache file C:\Users\jussi-pekkajar\Desktop\Android666\Android666\C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\jarlist.cache
+              [echo] ----------
+              [echo] Building Libraries with 'debug'...
+            [subant] No sub-builds to iterate on
+         
+         -code-gen:
+         [mergemanifest] Merging AndroidManifest files into one.
+         [mergemanifest] Manifest merger disabled. Using project manifest only.
+              [echo] hasCode = false. Skipping aidl/renderscript/R.java
+         
+         -pre-compile:
+         
+         -compile:
+              [echo] hasCode = false. Skipping...
+         
+         -post-compile:
+         
+         -obfuscate:
+         
+         -dex:
+              [echo] hasCode = false. Skipping...
+         
+         -crunch:
+            [crunch] Crunching PNG Files in source dir: C:\Users\jussi-pekkajar\Desktop\Android666\Android666\res
+            [crunch] To destination dir: C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\res
+            [crunch] Crunched 0 PNG files to update cache
+         
+         -package-resources:
+              [aapt] Creating full resource package...
+              [aapt] Warning: AndroidManifest.xml already defines debuggable (in http://schemas.android.com/apk/res/android); using existing value in manifest.
+         
+         -package:
+         [apkbuilder] Current build type is different than previous build: forced apkbuilder run.
+         [apkbuilder] Creating Android666-debug-unaligned.apk and signing it with a debug key...
+         
+         -post-package:
+         
+         -do-debug:
+          [zipalign] Running zip align on final apk...
+              [echo] Debug Package: C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\Android666-debug.apk
+         [propertyfile] Creating new property file: C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\build.prop
+         [propertyfile] Updating property file: C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\build.prop
+         [propertyfile] Updating property file: C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\build.prop
+         [propertyfile] Updating property file: C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\build.prop
+         
+         -post-build:
+         
+         debug:
+         
+         BUILD SUCCESSFUL
+         Total time: 2 seconds
+         Picked up _JAVA_OPTIONS:  -Xms256m -Xmx1024m
+     1>Done Building Project "C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Android666.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.43
