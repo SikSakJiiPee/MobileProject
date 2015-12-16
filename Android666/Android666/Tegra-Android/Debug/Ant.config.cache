@@ -7,12 +7,12 @@ ToolRootPath=C:\NVPACK\apache-ant-1.8.2
 JdkRootPath=C:\Program Files\Java\jdk1.7.0_79
 ToolchainPlugin=android
 ToolchainRootPath=C:\NVPACK\android-ndk-r10e
-OutputDir=C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\
-ProjectRoot=C:\Users\jussi-pekkajar\Desktop\Android666\Android666\
+OutputDir=C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\
+ProjectRoot=C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\
 ProjectName=Android666
 BuildTarget=Debug
-JavaSourceDir=C:\Users\jussi-pekkajar\Desktop\Android666\Android666\src
-AndroidManifestLocation=C:\Users\jussi-pekkajar\Desktop\Android666\Android666\AndroidManifest.xml
+JavaSourceDir=C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\src
+AndroidManifestLocation=C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\AndroidManifest.xml
 JarDirectories=
 JarDependencies=
 NativeLibDirectories=
@@ -33,8 +33,8 @@ AdditionalOptions=
 JavaSources:
 
 AndroidBuildSources:
-C:\Users\jussi-pekkajar\Desktop\Android666\Android666\AndroidManifest.xml
-C:\Users\jussi-pekkajar\Desktop\Android666\Android666\res\values\strings.xml
+C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\AndroidManifest.xml
+C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\res\values\strings.xml
 
 Sources:
-C:\Users\jussi-pekkajar\Desktop\Android666\Tegra-Android\Debug\libAndroid666.so
+C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Tegra-Android\Debug\libAndroid666.so

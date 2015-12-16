@@ -7,48 +7,48 @@
 	<message priority="debug"><![CDATA[Detected OS: Windows 7]]></message>
 	<message priority="debug"><![CDATA[Adding reference: ant.ComponentHelper]]></message>
 	<message priority="debug"><![CDATA[Setting ro project property: target -> android-15]]></message>
-	<message priority="debug"><![CDATA[Setting ro project property: ant.file -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml]]></message>
+	<message priority="debug"><![CDATA[Setting ro project property: ant.file -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml]]></message>
 	<message priority="debug"><![CDATA[Setting ro project property: ant.file.type -> file]]></message>
 	<message priority="debug"><![CDATA[Adding reference: ant.projectHelper]]></message>
 	<message priority="debug"><![CDATA[Adding reference: ant.parsing.context]]></message>
 	<message priority="debug"><![CDATA[Adding reference: ant.targets]]></message>
-	<message priority="debug"><![CDATA[parsing buildfile C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml with URI = file:/C:/Users/jussi-pekkajar/Desktop/Android666/Android666/Tegra-Android/Debug/nsight_tegra_build.xml]]></message>
+	<message priority="debug"><![CDATA[parsing buildfile C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml with URI = file:/C:/Users/jussi-pekkajar/Desktop/MobileProject/Android666/Android666/Tegra-Android/Debug/nsight_tegra_build.xml]]></message>
 	<message priority="debug"><![CDATA[Setting ro project property: ant.project.name -> Android666]]></message>
 	<message priority="debug"><![CDATA[Adding reference: Android666]]></message>
-	<message priority="debug"><![CDATA[Setting ro project property: ant.file.Android666 -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml]]></message>
+	<message priority="debug"><![CDATA[Setting ro project property: ant.file.Android666 -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml]]></message>
 	<message priority="debug"><![CDATA[Setting ro project property: ant.file.type.Android666 -> file]]></message>
-	<message priority="debug"><![CDATA[Project base dir set to: C:\Users\jussi-pekkajar\Desktop\Android666\Android666]]></message>
+	<message priority="debug"><![CDATA[Project base dir set to: C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666]]></message>
 	<message priority="debug"><![CDATA[ +Target: ]]></message>
 	<message priority="debug"><![CDATA[ +Target: -pre-compile]]></message>
 	<message priority="debug"><![CDATA[Adding reference: ant.LocalProperties]]></message>
 	<message priority="debug"><![CDATA[parsing buildfile jar:file:/C:/NVPACK/apache-ant-1.8.2/lib/ant.jar!/org/apache/tools/ant/antlib.xml with URI = jar:file:/C:/NVPACK/apache-ant-1.8.2/lib/ant.jar!/org/apache/tools/ant/antlib.xml from a zip file]]></message>
-	<message priority="debug"><![CDATA[Importing file C:\Users\jussi-pekkajar\Desktop\Android666\Android666\nsight_tegra_build_overrides_debug.xml from C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml]]></message>
-	<message priority="debug"><![CDATA[Cannot find C:\Users\jussi-pekkajar\Desktop\Android666\Android666\nsight_tegra_build_overrides_debug.xml imported from C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml]]></message>
-	<task location="C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:4: " name="import" time="0 seconds" />
-	<message priority="debug"><![CDATA[Importing file C:\Users\jussi-pekkajar\Desktop\Android666\Android666\nsight_tegra_build_overrides.xml from C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml]]></message>
-	<message priority="debug"><![CDATA[Cannot find C:\Users\jussi-pekkajar\Desktop\Android666\Android666\nsight_tegra_build_overrides.xml imported from C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml]]></message>
-	<task location="C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:5: " name="import" time="0 seconds" />
+	<message priority="debug"><![CDATA[Importing file C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\nsight_tegra_build_overrides_debug.xml from C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml]]></message>
+	<message priority="debug"><![CDATA[Cannot find C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\nsight_tegra_build_overrides_debug.xml imported from C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml]]></message>
+	<task location="C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:4: " name="import" time="0 seconds" />
+	<message priority="debug"><![CDATA[Importing file C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\nsight_tegra_build_overrides.xml from C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml]]></message>
+	<message priority="debug"><![CDATA[Cannot find C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\nsight_tegra_build_overrides.xml imported from C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml]]></message>
+	<task location="C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:5: " name="import" time="0 seconds" />
 	<message priority="debug"><![CDATA[Setting project property: sdk.dir -> C:\NVPACK\android-sdk-windows]]></message>
-	<task location="C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:7: " name="property" time="0 seconds" />
+	<task location="C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:7: " name="property" time="0 seconds" />
 	<message priority="debug"><![CDATA[Setting project property: source.dir -> ]]></message>
-	<task location="C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:8: " name="property" time="0 seconds" />
+	<task location="C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:8: " name="property" time="0 seconds" />
 	<message priority="debug"><![CDATA[Override ignored for property "target"]]></message>
-	<task location="C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:9: " name="property" time="0 seconds" />
-	<message priority="debug"><![CDATA[Setting project property: manifest.file -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_manifest.xml]]></message>
-	<task location="C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:12: " name="property" time="0 seconds" />
-	<message priority="debug"><![CDATA[Setting project property: manifest.abs.file -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_manifest.xml]]></message>
-	<task location="C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:13: " name="property" time="0 seconds" />
-	<message priority="debug"><![CDATA[Setting project property: gen.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\gen]]></message>
-	<task location="C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:16: " name="property" time="0 seconds" />
-	<message priority="debug"><![CDATA[Setting project property: out.dir -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin]]></message>
-	<task location="C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:17: " name="property" time="0 seconds" />
-	<message priority="debug"><![CDATA[Setting project property: jar.libs.dir -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\libs]]></message>
-	<task location="C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:18: " name="property" time="0 seconds" />
-	<message priority="debug"><![CDATA[Setting project property: native.libs.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\libs]]></message>
-	<task location="C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:19: " name="property" time="0 seconds" />
-	<message priority="debug"><![CDATA[Setting project property: XmlLogger.file -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\ant_log.xml]]></message>
-	<task location="C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:29: " name="property" time="0 seconds" />
-	<message priority="debug"><![CDATA[Importing file C:\NVPACK\android-sdk-windows\tools\ant\build.xml from C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml]]></message>
+	<task location="C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:9: " name="property" time="0 seconds" />
+	<message priority="debug"><![CDATA[Setting project property: manifest.file -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_manifest.xml]]></message>
+	<task location="C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:12: " name="property" time="0 seconds" />
+	<message priority="debug"><![CDATA[Setting project property: manifest.abs.file -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_manifest.xml]]></message>
+	<task location="C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:13: " name="property" time="0 seconds" />
+	<message priority="debug"><![CDATA[Setting project property: gen.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\gen]]></message>
+	<task location="C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:16: " name="property" time="0 seconds" />
+	<message priority="debug"><![CDATA[Setting project property: out.dir -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin]]></message>
+	<task location="C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:17: " name="property" time="0 seconds" />
+	<message priority="debug"><![CDATA[Setting project property: jar.libs.dir -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\libs]]></message>
+	<task location="C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:18: " name="property" time="0 seconds" />
+	<message priority="debug"><![CDATA[Setting project property: native.libs.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\libs]]></message>
+	<task location="C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:19: " name="property" time="0 seconds" />
+	<message priority="debug"><![CDATA[Setting project property: XmlLogger.file -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\ant_log.xml]]></message>
+	<task location="C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:29: " name="property" time="0 seconds" />
+	<message priority="debug"><![CDATA[Importing file C:\NVPACK\android-sdk-windows\tools\ant\build.xml from C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml]]></message>
 	<message priority="debug"><![CDATA[Overriding previous definition of reference to ant.projectHelper]]></message>
 	<message priority="debug"><![CDATA[Adding reference: ant.projectHelper]]></message>
 	<message priority="debug"><![CDATA[parsing buildfile C:\NVPACK\android-sdk-windows\tools\ant\build.xml with URI = file:/C:/NVPACK/android-sdk-windows/tools/ant/build.xml]]></message>
@@ -235,6 +235,14 @@
 	<message priority="debug"><![CDATA[Finding class com.google.common.collect.Sets$1]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/Sets$1.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.common.collect.Sets$1 loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.collect.Sets$2]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/Sets$2.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.collect.Sets$2 loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.collect.Sets$3]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/Sets$3.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.collect.Sets$3 loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Class java.lang.NullPointerException loaded from parent loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Class java.lang.ClassCastException loaded from parent loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.common.collect.ImmutableSet]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/ImmutableSet.class]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.common.collect.ImmutableCollection]]></message>
@@ -248,27 +256,37 @@
 	<message priority="debug"><![CDATA[Class com.google.common.collect.ImmutableEnumSet loaded from ant loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Class java.util.Map loaded from parent loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Class java.util.SortedSet loaded from parent loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Finding class com.google.common.collect.Sets$2]]></message>
-	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/Sets$2.class]]></message>
-	<message priority="debug"><![CDATA[Class com.google.common.collect.Sets$2 loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Finding class com.google.common.collect.Sets$3]]></message>
-	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/Sets$3.class]]></message>
-	<message priority="debug"><![CDATA[Class com.google.common.collect.Sets$3 loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Class java.lang.NullPointerException loaded from parent loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Class java.lang.ClassCastException loaded from parent loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Class java.util.HashSet loaded from parent loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.common.collect.Maps]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/Maps.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.common.collect.Maps loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Class java.util.SortedMap loaded from parent loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.common.base.Function]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/base/Function.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.common.base.Function loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Class java.util.Map$Entry loaded from parent loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.collect.UnmodifiableIterator]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/UnmodifiableIterator.class]]></message>
+	<message priority="debug"><![CDATA[Class java.util.Iterator loaded from parent loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.collect.UnmodifiableIterator loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.collect.Maps$1]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/Maps$1.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.collect.Maps$1 loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Class java.util.NavigableMap loaded from parent loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.base.Converter]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/base/Converter.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.base.Converter loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.collect.Maps$BiMapConverter]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/Maps$BiMapConverter.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.collect.Maps$BiMapConverter loaded from ant loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.common.collect.BiMap]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/BiMap.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.common.collect.BiMap loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Class java.util.NavigableMap loaded from parent loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Class java.util.SortedMap loaded from parent loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.collect.SortedMapDifference]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/SortedMapDifference.class]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.collect.MapDifference]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/MapDifference.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.collect.MapDifference loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.collect.SortedMapDifference loaded from ant loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.common.collect.ImmutableMap]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/ImmutableMap.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.common.collect.ImmutableMap loaded from ant loader (parentFirst)]]></message>
@@ -276,28 +294,10 @@
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/ImmutableEnumMap.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.common.collect.ImmutableEnumMap loaded from ant loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Class java.util.Comparator loaded from parent loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Class java.util.Iterator loaded from parent loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Class java.util.Map$Entry loaded from parent loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.common.collect.Maps$EntryTransformer]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/Maps$EntryTransformer.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.common.collect.Maps$EntryTransformer loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Finding class com.google.common.collect.UnmodifiableIterator]]></message>
-	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/UnmodifiableIterator.class]]></message>
-	<message priority="debug"><![CDATA[Class com.google.common.collect.UnmodifiableIterator loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Finding class com.google.common.collect.Maps$1]]></message>
-	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/Maps$1.class]]></message>
-	<message priority="debug"><![CDATA[Class com.google.common.collect.Maps$1 loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Finding class com.google.common.base.Converter]]></message>
-	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/base/Converter.class]]></message>
-	<message priority="debug"><![CDATA[Class com.google.common.base.Converter loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Finding class com.google.common.collect.Maps$BiMapConverter]]></message>
-	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/Maps$BiMapConverter.class]]></message>
-	<message priority="debug"><![CDATA[Class com.google.common.collect.Maps$BiMapConverter loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Finding class com.google.common.collect.SortedMapDifference]]></message>
-	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/SortedMapDifference.class]]></message>
-	<message priority="debug"><![CDATA[Finding class com.google.common.collect.MapDifference]]></message>
-	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/MapDifference.class]]></message>
-	<message priority="debug"><![CDATA[Class com.google.common.collect.MapDifference loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Class com.google.common.collect.SortedMapDifference loaded from ant loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.common.collect.Collections2]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/Collections2.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.common.collect.Collections2 loaded from ant loader (parentFirst)]]></message>
@@ -321,8 +321,8 @@
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/base/Preconditions.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.common.base.Preconditions loaded from ant loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Class java.lang.IllegalStateException loaded from parent loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Class java.lang.IllegalArgumentException loaded from parent loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Class java.lang.IndexOutOfBoundsException loaded from parent loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Class java.lang.IllegalArgumentException loaded from parent loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Class java.lang.String loaded from parent loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Class java.lang.UnsupportedOperationException loaded from parent loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.common.base.Joiner$MapJoiner]]></message>
@@ -512,6 +512,18 @@
 	<message priority="debug"><![CDATA[Finding class com.vladium.emma.ant.NestedTask]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\emma_ant.jar com/vladium/emma/ant/NestedTask.class]]></message>
 	<message priority="debug"><![CDATA[Class com.vladium.emma.ant.NestedTask loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.vladium.emma.instr.instrTask]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\emma_ant.jar com/vladium/emma/instr/instrTask.class]]></message>
+	<message priority="debug"><![CDATA[Finding class com.vladium.emma.ant.FilterTask]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\emma_ant.jar com/vladium/emma/ant/FilterTask.class]]></message>
+	<message priority="debug"><![CDATA[Class com.vladium.emma.ant.FilterTask loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Class com.vladium.emma.instr.instrTask loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.vladium.emma.data.mergeTask]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\emma_ant.jar com/vladium/emma/data/mergeTask.class]]></message>
+	<message priority="debug"><![CDATA[Finding class com.vladium.emma.ant.FileTask]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\emma_ant.jar com/vladium/emma/ant/FileTask.class]]></message>
+	<message priority="debug"><![CDATA[Class com.vladium.emma.ant.FileTask loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Class com.vladium.emma.data.mergeTask loaded from ant loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.vladium.emma.report.reportTask]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\emma_ant.jar com/vladium/emma/report/reportTask.class]]></message>
 	<message priority="debug"><![CDATA[Finding class com.vladium.emma.report.IReportProperties]]></message>
@@ -520,37 +532,25 @@
 	<message priority="debug"><![CDATA[Finding class com.vladium.emma.report.IReportEnums]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\emma_ant.jar com/vladium/emma/report/IReportEnums.class]]></message>
 	<message priority="debug"><![CDATA[Class com.vladium.emma.report.IReportEnums loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Finding class com.vladium.emma.ant.FileTask]]></message>
-	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\emma_ant.jar com/vladium/emma/ant/FileTask.class]]></message>
-	<message priority="debug"><![CDATA[Class com.vladium.emma.ant.FileTask loaded from ant loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Class com.vladium.emma.report.reportTask loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Finding class com.vladium.emma.data.mergeTask]]></message>
-	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\emma_ant.jar com/vladium/emma/data/mergeTask.class]]></message>
-	<message priority="debug"><![CDATA[Class com.vladium.emma.data.mergeTask loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Finding class com.vladium.emma.instr.instrTask]]></message>
-	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\emma_ant.jar com/vladium/emma/instr/instrTask.class]]></message>
-	<message priority="debug"><![CDATA[Finding class com.vladium.emma.ant.FilterTask]]></message>
-	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\emma_ant.jar com/vladium/emma/ant/FilterTask.class]]></message>
-	<message priority="debug"><![CDATA[Class com.vladium.emma.ant.FilterTask loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Class com.vladium.emma.instr.instrTask loaded from ant loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Class java.util.List loaded from parent loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[ +Datatype emma com.vladium.emma.emmaTask]]></message>
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:119: " name="taskdef" time="0 seconds" />
 	<message priority="debug"><![CDATA[Override ignored for property "source.dir"]]></message>
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:130: " name="property" time="0 seconds" />
-	<message priority="debug"><![CDATA[Setting project property: source.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666]]></message>
+	<message priority="debug"><![CDATA[Setting project property: source.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666]]></message>
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:131: " name="property" time="0 seconds" />
 	<message priority="debug"><![CDATA[Override ignored for property "gen.absolute.dir"]]></message>
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:132: " name="property" time="0 seconds" />
-	<message priority="debug"><![CDATA[Setting project property: resource.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666\res]]></message>
+	<message priority="debug"><![CDATA[Setting project property: resource.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\res]]></message>
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:133: " name="property" time="0 seconds" />
 	<message priority="debug"><![CDATA[Setting project property: asset.dir -> assets]]></message>
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:134: " name="property" time="0 seconds" />
-	<message priority="debug"><![CDATA[Setting project property: asset.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666\assets]]></message>
+	<message priority="debug"><![CDATA[Setting project property: asset.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\assets]]></message>
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:135: " name="property" time="0 seconds" />
 	<message priority="debug"><![CDATA[Override ignored for property "jar.libs.dir"]]></message>
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:136: " name="property" time="0 seconds" />
-	<message priority="debug"><![CDATA[Setting project property: jar.libs.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\libs]]></message>
+	<message priority="debug"><![CDATA[Setting project property: jar.libs.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\libs]]></message>
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:137: " name="property" time="0 seconds" />
 	<message priority="debug"><![CDATA[Override ignored for property "native.libs.absolute.dir"]]></message>
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:138: " name="property" time="0 seconds" />
@@ -560,21 +560,21 @@
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:141: " name="property" time="0 seconds" />
 	<message priority="debug"><![CDATA[Override ignored for property "out.dir"]]></message>
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:144: " name="property" time="0 seconds" />
-	<message priority="debug"><![CDATA[Setting project property: out.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin]]></message>
+	<message priority="debug"><![CDATA[Setting project property: out.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin]]></message>
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:145: " name="property" time="0 seconds" />
-	<message priority="debug"><![CDATA[Setting project property: out.classes.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\classes]]></message>
+	<message priority="debug"><![CDATA[Setting project property: out.classes.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\classes]]></message>
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:146: " name="property" time="0 seconds" />
-	<message priority="debug"><![CDATA[Setting project property: out.res.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\res]]></message>
+	<message priority="debug"><![CDATA[Setting project property: out.res.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\res]]></message>
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:147: " name="property" time="0 seconds" />
-	<message priority="debug"><![CDATA[Setting project property: out.rs.obj.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\rsObj]]></message>
+	<message priority="debug"><![CDATA[Setting project property: out.rs.obj.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\rsObj]]></message>
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:148: " name="property" time="0 seconds" />
-	<message priority="debug"><![CDATA[Setting project property: out.rs.libs.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\rsLibs]]></message>
+	<message priority="debug"><![CDATA[Setting project property: out.rs.libs.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\rsLibs]]></message>
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:149: " name="property" time="0 seconds" />
-	<message priority="debug"><![CDATA[Setting project property: out.aidl.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\aidl]]></message>
+	<message priority="debug"><![CDATA[Setting project property: out.aidl.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\aidl]]></message>
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:150: " name="property" time="0 seconds" />
-	<message priority="debug"><![CDATA[Setting project property: out.dexed.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\dexedLibs]]></message>
+	<message priority="debug"><![CDATA[Setting project property: out.dexed.absolute.dir -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\dexedLibs]]></message>
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:151: " name="property" time="0 seconds" />
-	<message priority="debug"><![CDATA[Setting project property: out.manifest.abs.file -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\AndroidManifest.xml]]></message>
+	<message priority="debug"><![CDATA[Setting project property: out.manifest.abs.file -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\AndroidManifest.xml]]></message>
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:152: " name="property" time="0 seconds" />
 	<message priority="debug"><![CDATA[Setting project property: android.tools.dir -> C:\NVPACK\android-sdk-windows\tools]]></message>
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:155: " name="property" time="0 seconds" />
@@ -593,11 +593,11 @@
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:160: " name="property" time="0 seconds" />
 	<message priority="debug"><![CDATA[Setting project property: dex.file.name -> classes.dex]]></message>
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:163: " name="property" time="0 seconds" />
-	<message priority="debug"><![CDATA[Setting project property: intermediate.dex.file -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\classes.dex]]></message>
+	<message priority="debug"><![CDATA[Setting project property: intermediate.dex.file -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\classes.dex]]></message>
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:164: " name="property" time="0 seconds" />
 	<message priority="debug"><![CDATA[Setting project property: resource.package.file.name -> Android666.ap_]]></message>
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:165: " name="property" time="0 seconds" />
-	<message priority="debug"><![CDATA[Setting project property: out.build.prop.file -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\build.prop]]></message>
+	<message priority="debug"><![CDATA[Setting project property: out.build.prop.file -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\build.prop]]></message>
 	<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:168: " name="property" time="0 seconds" />
 	<message priority="debug"><![CDATA[Class org.apache.tools.ant.taskdefs.condition.IsTrue loaded from parent loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Condition false; setting verbosity to quiet]]></message>
@@ -656,7 +656,7 @@
 	</task>
 	<message priority="debug"><![CDATA[Overriding previous definition of reference to ant.projectHelper]]></message>
 	<message priority="debug"><![CDATA[Adding reference: ant.projectHelper]]></message>
-	<task location="C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:31: " name="import" time="0 seconds" />
+	<task location="C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:31: " name="import" time="0 seconds" />
 	<message priority="debug"><![CDATA[Setting ro project property: ant.project.invoked-targets -> debug]]></message>
 	<message priority="debug"><![CDATA[Attempting to create object of type org.apache.tools.ant.helper.DefaultExecutor]]></message>
 	<message priority="debug"><![CDATA[Adding reference: ant.executor]]></message>
@@ -665,8 +665,8 @@
 	<target name="-set-mode-check" time="0 seconds">
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:980: " name="fail" time="0 seconds" />
 	</target>
-	<message priority="debug"><![CDATA[Setting project property: out.packaged.file -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\Android666-debug-unaligned.apk]]></message>
-	<message priority="debug"><![CDATA[Setting project property: out.final.file -> C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\Android666-debug.apk]]></message>
+	<message priority="debug"><![CDATA[Setting project property: out.packaged.file -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\Android666-debug-unaligned.apk]]></message>
+	<message priority="debug"><![CDATA[Setting project property: out.final.file -> C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\Android666-debug.apk]]></message>
 	<message priority="debug"><![CDATA[Setting project property: build.is.mode.set -> true]]></message>
 	<target name="-set-debug-files" time="0 seconds">
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:989: " name="property" time="0 seconds" />
@@ -769,9 +769,6 @@
 	<message priority="debug"><![CDATA[Finding class com.android.sdklib.io.IFileOp]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\sdklib.jar com/android/sdklib/io/IFileOp.class]]></message>
 	<message priority="debug"><![CDATA[Class com.android.sdklib.io.IFileOp loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Finding class com.android.sdklib.ISystemImage]]></message>
-	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\sdklib.jar com/android/sdklib/ISystemImage.class]]></message>
-	<message priority="debug"><![CDATA[Class com.android.sdklib.ISystemImage loaded from ant loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.android.sdklib.repository.local.LocalPkgInfo]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\sdklib.jar com/android/sdklib/repository/local/LocalPkgInfo.class]]></message>
 	<message priority="debug"><![CDATA[Finding class com.android.sdklib.repository.IDescription]]></message>
@@ -796,6 +793,9 @@
 	<message priority="debug"><![CDATA[Finding class com.android.sdklib.AndroidVersion$AndroidVersionException]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\sdklib.jar com/android/sdklib/AndroidVersion$AndroidVersionException.class]]></message>
 	<message priority="debug"><![CDATA[Class com.android.sdklib.AndroidVersion$AndroidVersionException loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.android.sdklib.ISystemImage]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\sdklib.jar com/android/sdklib/ISystemImage.class]]></message>
+	<message priority="debug"><![CDATA[Class com.android.sdklib.ISystemImage loaded from ant loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.common.collect.TreeMultimap]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/TreeMultimap.class]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.common.collect.AbstractSortedKeySortedSetMultimap]]></message>
@@ -861,9 +861,9 @@
 	<message priority="debug"><![CDATA[Finding class com.google.common.collect.ComparatorOrdering]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/ComparatorOrdering.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.common.collect.ComparatorOrdering loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Finding class com.google.common.collect.NaturalOrdering]]></message>
-	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/NaturalOrdering.class]]></message>
-	<message priority="debug"><![CDATA[Class com.google.common.collect.NaturalOrdering loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.collect.LexicographicalOrdering]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/LexicographicalOrdering.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.collect.LexicographicalOrdering loaded from ant loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.common.collect.ExplicitOrdering]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/ExplicitOrdering.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.common.collect.ExplicitOrdering loaded from ant loader (parentFirst)]]></message>
@@ -885,9 +885,9 @@
 	<message priority="debug"><![CDATA[Finding class com.google.common.collect.CompoundOrdering]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/CompoundOrdering.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.common.collect.CompoundOrdering loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Finding class com.google.common.collect.LexicographicalOrdering]]></message>
-	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/LexicographicalOrdering.class]]></message>
-	<message priority="debug"><![CDATA[Class com.google.common.collect.LexicographicalOrdering loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.collect.NaturalOrdering]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/NaturalOrdering.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.collect.NaturalOrdering loaded from ant loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.common.collect.ReverseNaturalOrdering]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/ReverseNaturalOrdering.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.common.collect.ReverseNaturalOrdering loaded from ant loader (parentFirst)]]></message>
@@ -955,15 +955,15 @@
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/Lists$TransformingSequentialList.class]]></message>
 	<message priority="debug"><![CDATA[Class java.util.AbstractSequentialList loaded from parent loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Class com.google.common.collect.Lists$TransformingSequentialList loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Finding class com.google.common.collect.Lists$StringAsImmutableList]]></message>
-	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/Lists$StringAsImmutableList.class]]></message>
-	<message priority="debug"><![CDATA[Class com.google.common.collect.Lists$StringAsImmutableList loaded from ant loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.common.collect.Lists$Partition]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/Lists$Partition.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.common.collect.Lists$Partition loaded from ant loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.common.collect.Lists$RandomAccessPartition]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/Lists$RandomAccessPartition.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.common.collect.Lists$RandomAccessPartition loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.collect.Lists$StringAsImmutableList]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/Lists$StringAsImmutableList.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.collect.Lists$StringAsImmutableList loaded from ant loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Class java.util.ArrayList loaded from parent loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Class java.util.TreeSet loaded from parent loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.common.collect.AbstractMapBasedMultimap$WrappedNavigableSet]]></message>
@@ -1042,10 +1042,14 @@
 	<message priority="debug"><![CDATA[Setting project property: aapt -> C:\NVPACK\android-sdk-windows\build-tools\22.0.1\aapt.exe]]></message>
 	<message priority="debug"><![CDATA[Setting project property: zipalign -> C:\NVPACK\android-sdk-windows\build-tools\22.0.1\zipalign.exe]]></message>
 	<message priority="debug"><![CDATA[Setting project property: dx -> C:\NVPACK\android-sdk-windows\build-tools\22.0.1\dx.bat]]></message>
-	<message priority="debug"><![CDATA[Setting project property: build.last.target -> ]]></message>
-	<message priority="debug"><![CDATA[Setting project property: build.last.is.instrumented -> ]]></message>
-	<message priority="debug"><![CDATA[Setting project property: build.last.is.packaging.debug -> ]]></message>
-	<message priority="debug"><![CDATA[Setting project property: build.last.is.signing.debug -> ]]></message>
+	<message priority="debug"><![CDATA[Setting project property: build.last.is.packaging.debug -> true]]></message>
+	<message priority="debug"><![CDATA[Setting project property: build.last.is.signing.debug -> true]]></message>
+	<message priority="debug"><![CDATA[Setting project property: build.last.target -> debug]]></message>
+	<message priority="debug"><![CDATA[Setting project property: build.last.is.instrumented -> false]]></message>
+	<message priority="debug"><![CDATA[Override ignored for property "build.last.target"]]></message>
+	<message priority="debug"><![CDATA[Override ignored for property "build.last.is.instrumented"]]></message>
+	<message priority="debug"><![CDATA[Override ignored for property "build.last.is.packaging.debug"]]></message>
+	<message priority="debug"><![CDATA[Override ignored for property "build.last.is.signing.debug"]]></message>
 	<message priority="debug"><![CDATA[Class org.apache.tools.ant.taskdefs.condition.IsFalse loaded from parent loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.android.ant.GetTargetTask$1]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\ant-tasks.jar com/android/ant/GetTargetTask$1.class]]></message>
@@ -1161,11 +1165,26 @@
 	<message priority="debug"><![CDATA[Finding class com.google.gson.Gson]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\gson-2.2.4.jar com/google/gson/Gson.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.gson.Gson loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Finding class com.google.gson.JsonIOException]]></message>
-	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\gson-2.2.4.jar com/google/gson/JsonIOException.class]]></message>
+	<message priority="debug"><![CDATA[Class java.io.EOFException loaded from parent loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.gson.JsonSyntaxException]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\gson-2.2.4.jar com/google/gson/JsonSyntaxException.class]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.gson.JsonParseException]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\gson-2.2.4.jar com/google/gson/JsonParseException.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.gson.JsonParseException loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Class com.google.gson.JsonSyntaxException loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Class java.lang.reflect.Type loaded from parent loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Class java.io.StringReader loaded from parent loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.gson.stream.JsonReader]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\gson-2.2.4.jar com/google/gson/stream/JsonReader.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.gson.stream.JsonReader loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.gson.internal.bind.JsonTreeReader]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\gson-2.2.4.jar com/google/gson/internal/bind/JsonTreeReader.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.gson.internal.bind.JsonTreeReader loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.gson.stream.MalformedJsonException]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\gson-2.2.4.jar com/google/gson/stream/MalformedJsonException.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.gson.stream.MalformedJsonException loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.gson.JsonIOException]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\gson-2.2.4.jar com/google/gson/JsonIOException.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.gson.JsonIOException loaded from ant loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.gson.JsonElement]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\gson-2.2.4.jar com/google/gson/JsonElement.class]]></message>
@@ -1173,7 +1192,6 @@
 	<message priority="debug"><![CDATA[Finding class com.google.gson.JsonNull]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\gson-2.2.4.jar com/google/gson/JsonNull.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.gson.JsonNull loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Class java.lang.reflect.Type loaded from parent loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.gson.stream.JsonWriter]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\gson-2.2.4.jar com/google/gson/stream/JsonWriter.class]]></message>
 	<message priority="debug"><![CDATA[Class java.io.Flushable loaded from parent loader (parentFirst)]]></message>
@@ -1196,20 +1214,6 @@
 	<message priority="debug"><![CDATA[Finding class com.google.gson.Gson$3]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\gson-2.2.4.jar com/google/gson/Gson$3.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.gson.Gson$3 loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Finding class com.google.gson.stream.MalformedJsonException]]></message>
-	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\gson-2.2.4.jar com/google/gson/stream/MalformedJsonException.class]]></message>
-	<message priority="debug"><![CDATA[Class com.google.gson.stream.MalformedJsonException loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Finding class com.google.gson.JsonSyntaxException]]></message>
-	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\gson-2.2.4.jar com/google/gson/JsonSyntaxException.class]]></message>
-	<message priority="debug"><![CDATA[Class com.google.gson.JsonSyntaxException loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Finding class com.google.gson.stream.JsonReader]]></message>
-	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\gson-2.2.4.jar com/google/gson/stream/JsonReader.class]]></message>
-	<message priority="debug"><![CDATA[Class com.google.gson.stream.JsonReader loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Finding class com.google.gson.internal.bind.JsonTreeReader]]></message>
-	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\gson-2.2.4.jar com/google/gson/internal/bind/JsonTreeReader.class]]></message>
-	<message priority="debug"><![CDATA[Class com.google.gson.internal.bind.JsonTreeReader loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Class java.io.EOFException loaded from parent loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Class java.io.StringReader loaded from parent loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.gson.JsonDeserializationContext]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\gson-2.2.4.jar com/google/gson/JsonDeserializationContext.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.gson.JsonDeserializationContext loaded from ant loader (parentFirst)]]></message>
@@ -1479,8 +1483,8 @@
 	<message priority="debug"><![CDATA[Finding class com.google.gson.internal.$Gson$Types]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\gson-2.2.4.jar com/google/gson/internal/$Gson$Types.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.gson.internal.$Gson$Types loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Class java.lang.reflect.GenericArrayType loaded from parent loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Class java.lang.reflect.WildcardType loaded from parent loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Class java.lang.reflect.GenericArrayType loaded from parent loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.gson.internal.$Gson$Types$GenericArrayTypeImpl]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\gson-2.2.4.jar com/google/gson/internal/$Gson$Types$GenericArrayTypeImpl.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.gson.internal.$Gson$Types$GenericArrayTypeImpl loaded from ant loader (parentFirst)]]></message>
@@ -1507,6 +1511,7 @@
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/base/Predicate.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.common.base.Predicate loaded from ant loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Class java.io.OutputStreamWriter loaded from parent loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Class java.lang.OutOfMemoryError loaded from parent loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.common.io.ByteSource]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/ByteSource.class]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.common.io.InputSupplier]]></message>
@@ -1516,7 +1521,6 @@
 	<message priority="debug"><![CDATA[Finding class com.google.common.io.Files$FileByteSource]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/Files$FileByteSource.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.common.io.Files$FileByteSource loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Class java.lang.OutOfMemoryError loaded from parent loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.common.io.ByteSink]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/ByteSink.class]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.common.io.OutputSupplier]]></message>
@@ -1640,15 +1644,15 @@
 	<message priority="debug"><![CDATA[Finding class com.google.common.collect.Iterators$MergingIterator]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/Iterators$MergingIterator.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.common.collect.Iterators$MergingIterator loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Finding class com.google.common.collect.Iterators$13]]></message>
-	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/Iterators$13.class]]></message>
-	<message priority="debug"><![CDATA[Class com.google.common.collect.Iterators$13 loaded from ant loader (parentFirst)]]></message>
-	<message priority="debug"><![CDATA[Finding class com.google.common.collect.Iterators$3]]></message>
-	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/Iterators$3.class]]></message>
-	<message priority="debug"><![CDATA[Class com.google.common.collect.Iterators$3 loaded from ant loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.common.collect.Iterators$11]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/Iterators$11.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.common.collect.Iterators$11 loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.collect.Iterators$3]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/Iterators$3.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.collect.Iterators$3 loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.collect.Iterators$13]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/Iterators$13.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.collect.Iterators$13 loaded from ant loader (parentFirst)]]></message>
 	<message priority="debug"><![CDATA[Finding class com.google.common.collect.PeekingIterator]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/collect/PeekingIterator.class]]></message>
 	<message priority="debug"><![CDATA[Class com.google.common.collect.PeekingIterator loaded from ant loader (parentFirst)]]></message>
@@ -1700,8 +1704,7 @@
 			<message priority="info"><![CDATA[Using latest Build Tools: 22.0.1]]></message>
 		</task>
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:486: " name="property" time="0 seconds">
-			<message priority="debug"><![CDATA[Loading C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\build.prop]]></message>
-			<message priority="debug"><![CDATA[Unable to find property file: C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\build.prop]]></message>
+			<message priority="debug"><![CDATA[Loading C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\build.prop]]></message>
 		</task>
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:489: " name="property" time="0 seconds" />
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:490: " name="property" time="0 seconds" />
@@ -1724,22 +1727,22 @@
 			<message priority="info"><![CDATA[Creating output directories if needed...]]></message>
 		</task>
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:546: " name="mkdir" time="0 seconds">
-			<message priority="debug"><![CDATA[Skipping C:\Users\jussi-pekkajar\Desktop\Android666\Android666\res because it already exists.]]></message>
+			<message priority="debug"><![CDATA[Skipping C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\res because it already exists.]]></message>
 		</task>
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:547: " name="mkdir" time="0 seconds">
-			<message priority="debug"><![CDATA[Skipping C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\libs because it already exists.]]></message>
+			<message priority="debug"><![CDATA[Skipping C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\libs because it already exists.]]></message>
 		</task>
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:548: " name="mkdir" time="0 seconds">
-			<message priority="info"><![CDATA[Created dir: C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin]]></message>
+			<message priority="debug"><![CDATA[Skipping C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin because it already exists.]]></message>
 		</task>
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:549: " name="mkdir" time="0 seconds">
-			<message priority="info"><![CDATA[Created dir: C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\res]]></message>
+			<message priority="debug"><![CDATA[Skipping C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\res because it already exists.]]></message>
 		</task>
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:550: " name="mkdir" time="0 seconds">
-			<message priority="info"><![CDATA[Created dir: C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\rsObj]]></message>
+			<message priority="debug"><![CDATA[Skipping C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\rsObj because it already exists.]]></message>
 		</task>
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:551: " name="mkdir" time="0 seconds">
-			<message priority="info"><![CDATA[Created dir: C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\rsLibs]]></message>
+			<message priority="debug"><![CDATA[Skipping C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\rsLibs because it already exists.]]></message>
 		</task>
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:240: " name="if" time="0 seconds" />
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:235: " name="if" time="0 seconds" />
@@ -1758,7 +1761,7 @@
 ]]></message>
 			<message priority="info"><![CDATA[------------------]]></message>
 			<message priority="info"><![CDATA[API<=15: Adding annotations.jar to the classpath.]]></message>
-			<message priority="info"><![CDATA[WARNING: unable to write jarlist cache file C:\Users\jussi-pekkajar\Desktop\Android666\Android666\C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\jarlist.cache]]></message>
+			<message priority="info"><![CDATA[WARNING: unable to write jarlist cache file C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\jarlist.cache]]></message>
 		</task>
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:586: " name="condition" time="0 seconds" />
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:590: " name="echo" time="0 seconds">
@@ -1774,8 +1777,90 @@
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:629: " name="path" time="0 seconds" />
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:606: " name="if" time="0 seconds" />
 	</target>
+	<message priority="debug"><![CDATA[Finding class com.android.ant.DependencyGraph]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\ant-tasks.jar com/android/ant/DependencyGraph.class]]></message>
+	<message priority="debug"><![CDATA[Class com.android.ant.DependencyGraph loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.io.Files$1]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/Files$1.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.io.Files$1 loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.hash.PrimitiveSink]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/hash/PrimitiveSink.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.hash.PrimitiveSink loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.io.ByteSource$ConcatenatedByteSource]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/ByteSource$ConcatenatedByteSource.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.io.ByteSource$ConcatenatedByteSource loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.io.ByteSource$ByteArrayByteSource]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/ByteSource$ByteArrayByteSource.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.io.ByteSource$ByteArrayByteSource loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.io.ByteSource$EmptyByteSource]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/ByteSource$EmptyByteSource.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.io.ByteSource$EmptyByteSource loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.io.ByteSource$SlicedByteSource]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/ByteSource$SlicedByteSource.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.io.ByteSource$SlicedByteSource loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.io.CharSource]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/CharSource.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.io.CharSource loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.io.ByteSource$AsCharSource]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/ByteSource$AsCharSource.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.io.ByteSource$AsCharSource loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Class java.io.BufferedInputStream loaded from parent loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.io.CharSource$ConcatenatedCharSource]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/CharSource$ConcatenatedCharSource.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.io.CharSource$ConcatenatedCharSource loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.io.CharSource$CharSequenceCharSource]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/CharSource$CharSequenceCharSource.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.io.CharSource$CharSequenceCharSource loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.io.CharSource$EmptyCharSource]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/CharSource$EmptyCharSource.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.io.CharSource$EmptyCharSource loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Class java.lang.Readable loaded from parent loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.io.CharStreams]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/CharStreams.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.io.CharStreams loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.io.CharStreams$3]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/CharStreams$3.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.io.CharStreams$3 loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.io.CharSink]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/CharSink.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.io.CharSink loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.io.CharStreams$4]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/CharStreams$4.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.io.CharStreams$4 loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.io.CharStreams$NullWriter]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/CharStreams$NullWriter.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.io.CharStreams$NullWriter loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.io.AppendableWriter]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/AppendableWriter.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.io.AppendableWriter loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.io.CharStreams$2]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/CharStreams$2.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.io.CharStreams$2 loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.io.Closer]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/Closer.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.io.Closer loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Class java.util.Deque loaded from parent loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.io.Closer$Suppressor]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/Closer$Suppressor.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.io.Closer$Suppressor loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.io.Closer$SuppressingSuppressor]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/Closer$SuppressingSuppressor.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.io.Closer$SuppressingSuppressor loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Class java.util.ArrayDeque loaded from parent loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.io.LineReader]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/LineReader.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.io.LineReader loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.io.LineBuffer]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/LineBuffer.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.io.LineBuffer loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Finding class com.google.common.io.LineReader$1]]></message>
+	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\guava-17.0.jar com/google/common/io/LineReader$1.class]]></message>
+	<message priority="debug"><![CDATA[Class com.google.common.io.LineReader$1 loaded from ant loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Class java.nio.CharBuffer loaded from parent loader (parentFirst)]]></message>
+	<message priority="debug"><![CDATA[Class java.util.LinkedList loaded from parent loader (parentFirst)]]></message>
 	<target name="-code-gen" time="0 seconds">
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:644: " name="mergemanifest" time="0 seconds">
+			<message priority="info"><![CDATA[Found Deleted Target File]]></message>
 			<message priority="info"><![CDATA[Merging AndroidManifest files into one.]]></message>
 			<message priority="info"><![CDATA[Manifest merger disabled. Using project manifest only.]]></message>
 		</task>
@@ -1791,8 +1876,8 @@
 	<message priority="debug"><![CDATA[Overriding previous definition of reference to project.all.jars.path]]></message>
 	<message priority="debug"><![CDATA[Adding reference: project.all.jars.path]]></message>
 	<target name="-pre-compile" time="0 seconds">
-		<task location="C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:21: " name="property" time="0 seconds" />
-		<task location="C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:22: " name="path" time="0 seconds" />
+		<task location="C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:21: " name="property" time="0 seconds" />
+		<task location="C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\nsight_tegra_build.xml:22: " name="path" time="0 seconds" />
 	</target>
 	<target name="-compile" time="0 seconds">
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:245: " name="echo" time="0 seconds">
@@ -1820,9 +1905,9 @@
 'crunch'
 '-v'
 '-S'
-'C:\Users\jussi-pekkajar\Desktop\Android666\Android666\res'
+'C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\res'
 '-C'
-'C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\res'
+'C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\res'
 
 The ' characters around the executable and arguments are
 not part of the command.]]></message>
@@ -1833,14 +1918,14 @@ not part of the command.]]></message>
 'crunch'
 '-v'
 '-S'
-'C:\Users\jussi-pekkajar\Desktop\Android666\Android666\res'
+'C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\res'
 '-C'
-'C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\res'
+'C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\res'
 
 The ' characters around the executable and arguments are
 not part of the command.]]></message>
-			<message priority="info"><![CDATA[Crunching PNG Files in source dir: C:\Users\jussi-pekkajar\Desktop\Android666\Android666\res]]></message>
-			<message priority="info"><![CDATA[To destination dir: C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\res]]></message>
+			<message priority="info"><![CDATA[Crunching PNG Files in source dir: C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\res]]></message>
+			<message priority="info"><![CDATA[To destination dir: C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\res]]></message>
 			<message priority="info"><![CDATA[Crunched 0 PNG files to update cache]]></message>
 		</task>
 	</target>
@@ -1855,15 +1940,15 @@ not part of the command.]]></message>
 '-0'
 'apk'
 '-M'
-'C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\AndroidManifest.xml'
+'C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\AndroidManifest.xml'
 '-S'
-'C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\res'
+'C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\res'
 '-S'
-'C:\Users\jussi-pekkajar\Desktop\Android666\Android666\res'
+'C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\res'
 '-I'
 'C:\NVPACK\android-sdk-windows\platforms\android-15\android.jar'
 '-F'
-'C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\Android666.ap_'
+'C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\Android666.ap_'
 '--generate-dependencies'
 
 The ' characters around the executable and arguments are
@@ -1878,28 +1963,29 @@ not part of the command.]]></message>
 '-0'
 'apk'
 '-M'
-'C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\AndroidManifest.xml'
+'C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\AndroidManifest.xml'
 '-S'
-'C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\res'
+'C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\res'
 '-S'
-'C:\Users\jussi-pekkajar\Desktop\Android666\Android666\res'
+'C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\res'
 '-I'
 'C:\NVPACK\android-sdk-windows\platforms\android-15\android.jar'
 '-F'
-'C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\Android666.ap_'
+'C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\Android666.ap_'
 '--generate-dependencies'
 
 The ' characters around the executable and arguments are
 not part of the command.]]></message>
 		<message priority="info"><![CDATA[Warning: AndroidManifest.xml already defines debuggable (in http://schemas.android.com/apk/res/android); using existing value in manifest.]]></message>
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:946: " name="aapt" time="0 seconds">
+			<message priority="info"><![CDATA[Found Deleted Target File]]></message>
 			<message priority="info"><![CDATA[Creating full resource package...]]></message>
 		</task>
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:218: " name="if" time="0 seconds" />
 		<task location="" name="sequential" time="0 seconds" />
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:928: " name="do-only-if-not-library" time="0 seconds" />
 	</target>
-	<message priority="debug"><![CDATA[fileset: Setup scanner in dir C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\libs with patternSet{ includes: [*.jar] excludes: [] }]]></message>
+	<message priority="debug"><![CDATA[fileset: Setup scanner in dir C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\libs with patternSet{ includes: [*.jar] excludes: [] }]]></message>
 	<message priority="debug"><![CDATA[Finding class com.android.sdklib.build.ApkBuilder]]></message>
 	<message priority="debug"><![CDATA[Loaded from C:\NVPACK\android-sdk-windows\tools\lib\sdklib.jar com/android/sdklib/build/ApkBuilder.class]]></message>
 	<message priority="debug"><![CDATA[Finding class com.android.sdklib.build.IArchiveBuilder]]></message>
@@ -1975,7 +2061,7 @@ not part of the command.]]></message>
 	<message priority="debug"><![CDATA[Class sun.security.pkcs.ContentInfo loaded from parent loader (parentFirst)]]></message>
 	<target name="-package" time="0 seconds">
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:312: " name="apkbuilder" time="0 seconds">
-			<message priority="info"><![CDATA[Current build type is different than previous build: forced apkbuilder run.]]></message>
+			<message priority="info"><![CDATA[Found Deleted Target File]]></message>
 			<message priority="info"><![CDATA[Creating Android666-debug-unaligned.apk and signing it with a debug key...]]></message>
 		</task>
 		<task location="" name="sequential" time="0 seconds" />
@@ -1989,8 +2075,8 @@ not part of the command.]]></message>
 	<message priority="debug"><![CDATA[Execute:Java13CommandLauncher: Executing 'C:\NVPACK\android-sdk-windows\build-tools\22.0.1\zipalign.exe' with arguments:
 '-f'
 '4'
-'C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\Android666-debug-unaligned.apk'
-'C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\Android666-debug.apk'
+'C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\Android666-debug-unaligned.apk'
+'C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\Android666-debug.apk'
 
 The ' characters around the executable and arguments are
 not part of the command.]]></message>
@@ -1999,8 +2085,8 @@ not part of the command.]]></message>
 		<message priority="debug"><![CDATA[Executing 'C:\NVPACK\android-sdk-windows\build-tools\22.0.1\zipalign.exe' with arguments:
 '-f'
 '4'
-'C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\Android666-debug-unaligned.apk'
-'C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\Android666-debug.apk'
+'C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\Android666-debug-unaligned.apk'
+'C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\Android666-debug.apk'
 
 The ' characters around the executable and arguments are
 not part of the command.]]></message>
@@ -2010,29 +2096,29 @@ not part of the command.]]></message>
 		<task location="" name="sequential" time="0 seconds" />
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:1035: " name="zipalign-helper" time="0 seconds" />
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:1036: " name="echo" time="0 seconds">
-			<message priority="info"><![CDATA[Debug Package: C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\Android666-debug.apk]]></message>
+			<message priority="info"><![CDATA[Debug Package: C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\Android666-debug.apk]]></message>
 		</task>
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:1034: " name="sequential" time="0 seconds" />
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:218: " name="if" time="0 seconds" />
 		<task location="" name="sequential" time="0 seconds" />
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:1033: " name="do-only-if-not-library" time="0 seconds" />
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:363: " name="propertyfile" time="0 seconds">
-			<message priority="info"><![CDATA[Creating new property file: C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\build.prop]]></message>
+			<message priority="info"><![CDATA[Updating property file: C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\build.prop]]></message>
 		</task>
 		<task location="" name="sequential" time="0 seconds" />
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:371: " name="record-build-key" time="0 seconds" />
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:363: " name="propertyfile" time="0 seconds">
-			<message priority="info"><![CDATA[Updating property file: C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\build.prop]]></message>
+			<message priority="info"><![CDATA[Updating property file: C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\build.prop]]></message>
 		</task>
 		<task location="" name="sequential" time="0 seconds" />
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:372: " name="record-build-key" time="0 seconds" />
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:363: " name="propertyfile" time="0 seconds">
-			<message priority="info"><![CDATA[Updating property file: C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\build.prop]]></message>
+			<message priority="info"><![CDATA[Updating property file: C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\build.prop]]></message>
 		</task>
 		<task location="" name="sequential" time="0 seconds" />
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:373: " name="record-build-key" time="0 seconds" />
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:363: " name="propertyfile" time="0 seconds">
-			<message priority="info"><![CDATA[Updating property file: C:\Users\jussi-pekkajar\Desktop\Android666\Android666\Tegra-Android\Debug\bin\build.prop]]></message>
+			<message priority="info"><![CDATA[Updating property file: C:\Users\jussi-pekkajar\Desktop\MobileProject\Android666\Android666\Tegra-Android\Debug\bin\build.prop]]></message>
 		</task>
 		<task location="" name="sequential" time="0 seconds" />
 		<task location="C:\NVPACK\android-sdk-windows\tools\ant\build.xml:374: " name="record-build-key" time="0 seconds" />

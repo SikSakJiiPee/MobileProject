@@ -31,6 +31,20 @@
 
 #define LOG_ACCELEROMETER false
 
+static void printGLString(const char *name, GLenum s)
+{
+	const char *v = (const char *)glGetString(s);
+	LOGI("GL %s = %s\n", name, v);
+}
+
+static void checkGLError(const char* op)
+{
+	for (GLint error = glGetError(); error; error = glGetError())
+	{
+		LOGI("after %s() glError (0x%x\n", op, error);
+	}
+}
+
 /**
  * Our saved state data.
  */
@@ -137,9 +151,14 @@ static void engine_draw_frame(struct engine* engine) {
     }
 
     // Just fill the screen with a color.
-    glClearColor(((float)engine->state.x)/engine->width, engine->state.angle,
-            ((float)engine->state.y)/engine->height, 1);
-    glClear(GL_COLOR_BUFFER_BIT);
+    //glClearColor(((float)engine->state.x)/engine->width, engine->state.angle,
+    //        ((float)engine->state.y)/engine->height, 1);
+    //glClear(GL_COLOR_BUFFER_BIT);
+
+	glClearColor(0.0f, 0.0f, 1.0f, 1.0f);
+	checkGLError("glClearColor");
+	glClear(GL_DEPTH_BUFFER_BIT | GL_COLOR_BUFFER_BIT);
+	checkGLError("glClear");
 
     eglSwapBuffers(engine->display, engine->surface);
 }
